@@ -1,0 +1,196 @@
+<rss version="2.0"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Utas &eacute;s Holdvil&aacute;g</title>
+    <googleplay:owner>tz@looper.hu</googleplay:owner>
+    <googleplay:author>Szerb Antal</googleplay:author>
+    <description>&quot;Ma bort iszom, holnap nem lesz.&quot;
+    
+Szereplők:
+
+Erzsi - Ónodi Eszter
+Mihály - Bodó Viktor
+Elbeszélő - Gálffi László
+Szepetneki János - Csányi Sándor
+Zoltán - Hajdú István
+Utas - Takátsy Péter
+Ellesley - Lukáts Andor
+Millicent - Pokorny Lia
+Ervin - Zsótér Sándor
+Sári - Kecskés Karina
+Perzsa - Halász Péter
+Waldheim - Mucsi Zoltán
+Portás - Ternyák Zoltán
+Nő - Gryllus Dorka
+Vannina - Hámori Gabriella
+Éva - Marozsán Erika
+Apa - Szacsvay László
+
+A felvételt készítette: Borlai Kinga és Kulcsár Péter
+
+Dramaturg: Turay Tamás
+
+Zenéjét összeállította és rendezte: Vajdai Vilmos
+
+A felvételek a Kossuth adón hangzottak el, és a Magyar Rádió hangtárából származnak.
+    </description>
+    <link>https://www.looper.hu/utas</link>
+    <googleplay:image href="http://www.looper.hu/utas/cover.jpg"/>
+    <language>hu-hu</language>
+    <item>
+      <title>1. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</title>
+      <description>1. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</description>
+      <pubDate>Mon, 21 Dec 2020 00:00:59 GMT</pubDate>
+      <enclosure url="http://looper.hu/utas/Utasesholdvilag14.mp3"
+                 type="audio/mpeg" length="5465696"/>
+      <itunes:duration>22:46</itunes:duration>
+      <guid isPermaLink="false">Utasesholdvilag14</guid>
+      <googleplay:explicit>false</googleplay:explicit>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>2. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</title>
+      <description>2. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</description>
+      <pubDate>Mon, 21 Dec 2020 00:00:58 GMT</pubDate>
+      <enclosure url="http://looper.hu/utas/Utasesholdvilag13.mp3"
+                 type="audio/mpeg" length="5479070"/>
+      <itunes:duration>22:50</itunes:duration>
+      <guid isPermaLink="false">Utasesholdvilag13</guid>
+      <googleplay:explicit>false</googleplay:explicit>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>3. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</title>
+      <description>3. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</description>
+      <pubDate>Mon, 21 Dec 2020 00:00:57 GMT</pubDate>
+      <enclosure url="http://looper.hu/utas/Utasesholdvilag12.mp3"
+                 type="audio/mpeg" length="5494117"/>
+      <itunes:duration>22:53</itunes:duration>
+      <guid isPermaLink="false">Utasesholdvilag12</guid>
+      <googleplay:explicit>false</googleplay:explicit>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>4. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</title>
+      <description>4. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</description>
+      <pubDate>Mon, 21 Dec 2020 00:00:56 GMT</pubDate>
+      <enclosure url="http://looper.hu/utas/Utasesholdvilag11.mp3"
+                 type="audio/mpeg" length="5315230"/>
+      <itunes:duration>22:09</itunes:duration>
+      <guid isPermaLink="false">Utasesholdvilag11</guid>
+      <googleplay:explicit>false</googleplay:explicit>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>5. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</title>
+      <description>5. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</description>
+      <pubDate>Mon, 21 Dec 2020 00:00:55 GMT</pubDate>
+      <enclosure url="http://looper.hu/utas/Utasesholdvilag10.mp3"
+                 type="audio/mpeg" length="4866342"/>
+      <itunes:duration>20:17</itunes:duration>
+      <guid isPermaLink="false">Utasesholdvilag10</guid>
+      <googleplay:explicit>false</googleplay:explicit>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>6. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</title>
+      <description>6. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</description>
+      <pubDate>Mon, 21 Dec 2020 00:00:54 GMT</pubDate>
+      <enclosure url="http://looper.hu/utas/Utasesholdvilag09.mp3"
+                 type="audio/mpeg" length="5070097"/>
+      <itunes:duration>21:07</itunes:duration>
+      <guid isPermaLink="false">Utasesholdvilag09</guid>
+      <googleplay:explicit>false</googleplay:explicit>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>7. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</title>
+      <description>7. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</description>
+      <pubDate>Mon, 21 Dec 2020 00:00:53 GMT</pubDate>
+      <enclosure url="http://looper.hu/utas/Utasesholdvilag08.mp3"
+                 type="audio/mpeg" length="5331113"/>
+      <itunes:duration>22:13</itunes:duration>
+      <guid isPermaLink="false">Utasesholdvilag08</guid>
+      <googleplay:explicit>false</googleplay:explicit>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>8. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</title>
+      <description>8. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</description>
+      <pubDate>Mon, 21 Dec 2020 00:00:52 GMT</pubDate>
+      <enclosure url="http://looper.hu/utas/Utasesholdvilag07.mp3"
+                 type="audio/mpeg" length="5200292"/>
+      <itunes:duration>21:40</itunes:duration>
+      <guid isPermaLink="false">Utasesholdvilag07</guid>
+      <googleplay:explicit>false</googleplay:explicit>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>9. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</title>
+      <description>9. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</description>
+      <pubDate>Mon, 21 Dec 2020 00:00:51 GMT</pubDate>
+      <enclosure url="http://looper.hu/utas/Utasesholdvilag06.mp3"
+                 type="audio/mpeg" length="5480324"/>
+      <itunes:duration>22:50</itunes:duration>
+      <guid isPermaLink="false">Utasesholdvilag06</guid>
+      <googleplay:explicit>false</googleplay:explicit>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>10. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</title>
+      <description>10. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</description>
+      <pubDate>Mon, 21 Dec 2020 00:00:50 GMT</pubDate>
+      <enclosure url="http://looper.hu/utas/Utasesholdvilag05.mp3"
+                 type="audio/mpeg" length="5101235"/>
+      <itunes:duration>21:15</itunes:duration>
+      <guid isPermaLink="false">Utasesholdvilag05</guid>
+      <googleplay:explicit>false</googleplay:explicit>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>11. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</title>
+      <description>11. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</description>
+      <pubDate>Mon, 21 Dec 2020 00:00:49 GMT</pubDate>
+      <enclosure url="http://looper.hu/utas/Utasesholdvilag04.mp3"
+                 type="audio/mpeg" length="4999671"/>
+      <itunes:duration>20:50</itunes:duration>
+      <guid isPermaLink="false">Utasesholdvilag04</guid>
+      <googleplay:explicit>false</googleplay:explicit>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>12. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</title>
+      <description>12. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</description>
+      <pubDate>Mon, 21 Dec 2020 00:00:48 GMT</pubDate>
+      <enclosure url="http://looper.hu/utas/Utasesholdvilag03.mp3"
+                 type="audio/mpeg" length="5759521"/>
+      <itunes:duration>24:00</itunes:duration>
+      <guid isPermaLink="false">Utasesholdvilag03</guid>
+      <googleplay:explicit>false</googleplay:explicit>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>13. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</title>
+      <description>13. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</description>
+      <pubDate>Mon, 21 Dec 2020 00:00:47 GMT</pubDate>
+      <enclosure url="http://looper.hu/utas/Utasesholdvilag02.mp3"
+                 type="audio/mpeg" length="4529258"/>
+      <itunes:duration>18:52</itunes:duration>
+      <guid isPermaLink="false">Utasesholdvilag02</guid>
+      <googleplay:explicit>false</googleplay:explicit>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>14. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</title>
+      <description>14. r&eacute;sz - Utas &eacute;s Holdvil&aacute;g</description>
+      <pubDate>Mon, 21 Dec 2020 00:00:46 GMT</pubDate>
+      <enclosure url="http://looper.hu/utas/Utasesholdvilag01.mp3"
+                 type="audio/mpeg" length="4401154"/>
+      <itunes:duration>18:20</itunes:duration>
+      <guid isPermaLink="false">Utasesholdvilag01</guid>
+      <googleplay:explicit>false</googleplay:explicit>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
